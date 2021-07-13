@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+1-55943_fuzzLogs
+json
+jsonDiffs
+pcaps
+sampleGraphs
+*.7z
+raw_time*
+*.tar
+*.html
+*.pcap
+*_diff.json
